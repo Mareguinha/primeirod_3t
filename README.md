@@ -1,2 +1,7 @@
-# primeirod_3t
-Miguel Ribeiro Marega N23
+#Terceiro trimestre
+
+## Identificação
+Miguel R. Marega - N.
+
+## Conteúdo
+HTML, css e javascript
