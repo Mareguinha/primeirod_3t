@@ -30,3 +30,15 @@
        color: pink;
        cursor: progress;
    }
+   h3 {
+       color: antiquewhite;
+   }
+.calcF {
+    display: none;
+}
+#input-calcF{
+    display: none;
+}
+#input-calcF:checked + #calculadora .calcF {
+    display: block;
+}
